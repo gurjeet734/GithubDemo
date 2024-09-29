@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="188dp"
-        android:text="Touch Me"
+        android:text="Touch Me Not"
         android:textSize="25sp"
         android:padding="10sp"
         app:layout_constraintBottom_toBottomOf="parent"
